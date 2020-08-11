@@ -1,0 +1,54 @@
+body{
+    background-color: rgba(40, 53, 82, 0.589);
+    font-family: 'Roboto', sans-serif;
+}
+#title{
+    font-size: 3.4rem;
+    opacity: 0.85;
+    font-weight: 500;
+}
+#main{
+    background-color: rgb(220,220,230);
+    margin: 20px;
+    padding: 15px;
+    border-radius: 7px;
+}
+#img-div{
+    background-color: white;
+    text-align: center;
+    padding: 10px;
+    border-radius: 5px;
+}
+#img-caption{
+    margin: 10px 0;
+}
+#tribute-info{
+    padding: 20px;
+}
+ul{
+    text-align: left;
+    max-width: 650px;
+    margin: 0 auto 45px auto;
+    line-height: 1.6;
+}
+li{
+    margin: 16px auto;
+}
+#headline{
+    margin: 25px auto;
+    font-weight: 500;
+    opacity: 0.8;
+}
+blockquote{
+    font-style: italic;
+    margin: 0 auto 45px auto;
+    max-width: 610px;
+    text-align: left;
+}
+h5{
+    opacity: 0.9;
+    font-weight: 600;
+}
+img{
+    border-radius: 4px;
+}
